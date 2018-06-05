@@ -1,22 +1,25 @@
-﻿Build started 17/05/2018 21.52.06.
-     1>Project "C:\C++\AcceleratedC++\AcceleratedC++\AcceleratedC++.vcxproj" on node 2 (Build target(s)).
+﻿Build started 05/06/2018 13.56.31.
+     1>Project "C:\C++\AcceleratedC++\Accelerated-Cplusplus\AcceleratedC++\AcceleratedC++.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt chapter3.cpp
-         chapter3.cpp
-     1>c:\c++\acceleratedc++\acceleratedc++\chapter3.cpp(141): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\c++\acceleratedc++\acceleratedc++\chapter3.cpp(153): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\c++\acceleratedc++\acceleratedc++\chapter3.cpp(179): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\c++\acceleratedc++\acceleratedc++\chapter3.cpp(220): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\c++\acceleratedc++\acceleratedc++\chapter3.cpp(250): warning C4018: '<' : signed/unsigned mismatch
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt chapter4.cpp
+         chapter4.cpp
+     1>c:\c++\acceleratedc++\accelerated-cplusplus\acceleratedc++\chapter4.cpp(173): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\c++\acceleratedc++\accelerated-cplusplus\acceleratedc++\chapter4.cpp(178): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\c++\acceleratedc++\accelerated-cplusplus\acceleratedc++\chapter4.cpp(196): warning C4018: '<' : signed/unsigned mismatch
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\C++\AcceleratedC++\Debug\AcceleratedC++.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\C++\AcceleratedC++\Debug\AcceleratedC++.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\C++\AcceleratedC++\Debug\AcceleratedC++.lib" /MACHINE:X86 Debug\chapter0.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\C++\AcceleratedC++\Accelerated-Cplusplus\Debug\AcceleratedC++.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\C++\AcceleratedC++\Accelerated-Cplusplus\Debug\AcceleratedC++.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\C++\AcceleratedC++\Accelerated-Cplusplus\Debug\AcceleratedC++.lib" /MACHINE:X86 Debug\average.obj
+         Debug\chapter0.obj
          Debug\chapter1.obj
          Debug\chapter2.obj
          Debug\chapter3.obj
+         Debug\chapter4.obj
+         Debug\grade.obj
          Debug\main.obj
-         AcceleratedC++.vcxproj -> C:\C++\AcceleratedC++\Debug\AcceleratedC++.exe
-     1>Done Building Project "C:\C++\AcceleratedC++\AcceleratedC++\AcceleratedC++.vcxproj" (Build target(s)).
+         Debug\median.obj
+         Debug\Student_info.obj
+         AcceleratedC++.vcxproj -> C:\C++\AcceleratedC++\Accelerated-Cplusplus\Debug\AcceleratedC++.exe
+     1>Done Building Project "C:\C++\AcceleratedC++\Accelerated-Cplusplus\AcceleratedC++\AcceleratedC++.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:03.17
+Time Elapsed 00:00:02.56

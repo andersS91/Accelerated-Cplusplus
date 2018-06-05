@@ -76,18 +76,32 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="average.cpp" />
     <ClCompile Include="chapter0.cpp" />
     <ClCompile Include="chapter1.cpp" />
     <ClCompile Include="chapter2.cpp" />
     <ClCompile Include="chapter3.cpp" />
+    <ClCompile Include="chapter4.cpp" />
+    <ClCompile Include="chapter5.cpp" />
+    <ClCompile Include="grade.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="median.cpp" />
+    <ClCompile Include="old_Student_info.cpp" />
+    <ClCompile Include="Student_info.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="average.h" />
     <ClInclude Include="chapter0.h" />
     <ClInclude Include="chapter1.h" />
     <ClInclude Include="chapter2.h" />
     <ClInclude Include="chapter3.h" />
+    <ClInclude Include="chapter4.h" />
+    <ClInclude Include="chapter5.h" />
+    <ClInclude Include="grade.h" />
     <ClInclude Include="main.h" />
+    <ClInclude Include="median.h" />
+    <ClInclude Include="old_Student_info.h" />
+    <ClInclude Include="Student_info.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -30,6 +30,27 @@
     <ClCompile Include="chapter3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="chapter4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="median.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="grade.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Student_info.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="average.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="old_Student_info.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="chapter5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
@@ -45,6 +66,27 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="chapter3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="chapter4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="median.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="grade.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Student_info.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="average.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="old_Student_info.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="chapter5.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

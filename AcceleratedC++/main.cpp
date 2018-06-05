@@ -1,6 +1,6 @@
 #include "main.h"
 
 int main(){
-	threeFive();
+	fivePlayground();
 	return 0;
 }
