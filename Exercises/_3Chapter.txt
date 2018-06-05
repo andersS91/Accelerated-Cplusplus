@@ -1,0 +1,7 @@
+3-0: Done 
+3-1: If we throw away a value, it could have been the median. Does not work unless we assume that all following values will be exclusively higher or lower
+3-2: Done
+3-3: Done
+3-4: Done
+3-5: 
+3-6: 

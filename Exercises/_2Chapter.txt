@@ -1,0 +1,11 @@
+2-0: Done
+2-1: Done
+2-2: Done
+2-3: Done
+2-4: Done
+2-5: Done
+2-6: Done
+2-7: Done
+2-8: Done
+2-9: Done
+2-10: Using std::cout in the while loop is creating a namespace declaration for the output stream for the command line. Outside the loop the program can no longer skip the std:: portion as the using statement had scope inside the while loop.

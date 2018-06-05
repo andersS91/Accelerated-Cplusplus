@@ -1,0 +1,7 @@
+1-0: Done
+1-1: Yes.
+1-2: Yes
+1-3: Valid, because of the scope of the curly brackets. Output: "a string \n another string"
+1-4: Valid, due to s being overrided by the local scope s created inside the second layer of curly brackets.
+1-5: No, as x disappears due to scoping before it is read from.
+1-6: It will run with the name variable being overwritten with every occurence of cin >> name

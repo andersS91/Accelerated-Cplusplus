@@ -1,0 +1,11 @@
+0-0: Done
+0-1: 7
+0-2: Done
+0-3: Done
+0-4: Done
+0-5: Curly brackets are missing. It also has no return statement.
+0-6: Curly brackets are fine, but it is missing a return statement.
+0-7: Wrong comment delimiter.
+0-8: Yes, because comments override delimiters.
+0-9: Main return 0;
+0-10: Done
